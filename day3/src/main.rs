@@ -23,6 +23,7 @@ fn first_part(input_path: &str) {
                 }
             }
         }
+        
 
         let mut gamma = 0;
         let mut epsilon = 0;
